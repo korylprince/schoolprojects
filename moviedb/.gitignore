@@ -1,3 +1,9 @@
 *.pyc
 *.swp
 *.db
+*.aux
+*.dvi
+*.log
+*.out
+*.toc
+*.synctex.gz

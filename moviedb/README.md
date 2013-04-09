@@ -10,7 +10,7 @@ gen/scrape.py is used to get data from TMDB (You will need an api key.) This nee
 
 Starting the application without the data from that script at gen/movies will cause an error.
 
-Much more info is included on the index page of the application or templates/index.html.
+Much more info is included in the manual (required as part of the project.
 
 #Copyright Information#
 Copyright 2013 Kory Prince (korylprince AT gmail DAWT com).

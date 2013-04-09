@@ -219,7 +219,7 @@ def color_gen(name):
     return '#' + c[-6:]
 
 ##
-## Performed Every Retsart
+## Performed Every Restart
 ##
      
 # connect to database and generate it
